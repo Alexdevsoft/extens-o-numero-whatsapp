@@ -1,35 +1,35 @@
-# WhatsApp Group Mobile Number Extractor Chrome Extension
+# Extensão do Chrome para extrair números de celular de grupos do WhatsApp
 
-This Chrome extension facilitates the extraction of mobile numbers from WhatsApp group conversations. It allows you to fetch the HTML content of the current active tab, clean and extract mobile numbers, and download the results.
+Esta extensão do Chrome facilita a extração de números de celular de conversas em grupo do WhatsApp. Ela permite que você busque o conteúdo HTML da aba ativa no momento, limpe e extraia números de celular e baixe os resultados.
 
-## Installation
+## Instalação:
 
-1. Clone this repository to your local machine.
+1. Clone o repositório na sua máquina local.
 
 ```bash
 https://github.com/pilanias/whatsapp-group-extractor.git 
  ```
 
-2.  Open Google Chrome and navigate to `chrome://extensions/`.
+2.  Abra o Google Chrome e navegue até `chrome://extensions/`.
     
-3.  Enable "Developer mode" in the top right corner.
+3.  Ative o "Modo de desenvolvedor" no canto superior direito.
     
-4.  Click on "Load unpacked" and select the directory where you cloned this repository.
+4.  Clique em "Carregar sem compactado" e selecione o diretório onde você clonou este repositório.
     
-5.  The extension should now appear in your list of installed extensions.
+5.  A extensão agora deve aparecer na sua lista de extensões instaladas.
     
 
-## Usage
+## Como usar:
 
-1.  Open a WhatsApp group chat in Chrome.
+1.  Abra um bate-papo em grupo do WhatsApp no Chrome.
     
-2.  Click on the extension icon in the toolbar.
+2.  Clique no ícone da extensão na barra de ferramentas.
         
-3.  Use the "Extract Numbers" button to extract mobile numbers from the displayed conversation.
+3.  Use o botão "Extrair números" para extrair números de celular da conversa exibida.
     
-4.  Download the extracted numbers in CSV or VCard format using the provided download links.
+4.  Baixe os números extraídos em formato CSV ou VCard usando os links de download fornecidos.
     
 
-## Contributing
+## Contribuições:
 
-Contributions are welcome! If you find a bug or have a suggestion for improvement, please open an issue or submit a pull request.
+Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestão de melhoria, abra uma issue ou envie um pull request.
