@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/style.css">
+  <title>Bulk Group Mobile Number Exporter</title>
+</head>
+<body>
+  <div class="container">
+    <h2>Bulk Group Mobile Number Exporter</h2>
+    <button id="cleanButton">Export Mobile Numbers</button>
+    <a id="downloadCsv" download="cleaned_numbers.csv" style="display: none;">Download CSV</a>
+    <a id="downloadVCard" download="cleaned_numbers.vcf" style="display: none;">Download VCard</a>
+    <div id="cleanedNumbers"></div>
+    <script src="/popup.js"></script>
+    <script src="/content.js"></script>
+  </div>
+</body>
+</html>
