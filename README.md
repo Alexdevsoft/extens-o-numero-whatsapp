@@ -7,7 +7,7 @@ Esta extensão do Chrome facilita a extração de números de celular de convers
 1. Clone o repositório na sua máquina local.
 
 ```bash
-https://github.com/pilanias/whatsapp-group-extractor.git 
+https://github.com/Alexdevsoft/extens-o-numero-whatsapp.git
  ```
 
 2.  Abra o Google Chrome e navegue até `chrome://extensions/`.
@@ -33,3 +33,5 @@ https://github.com/pilanias/whatsapp-group-extractor.git
 ## Contribuições:
 
 Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestão de melhoria, abra uma issue ou envie um pull request.
+
+Autor: [Alexsandro Almeida](www.linkedin.com/in/alexsandro-j-a-almeida)
